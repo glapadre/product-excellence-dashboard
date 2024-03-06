@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.15.0-rc.2",
-  "homepage": "https://pages.github.ibm.com/{repo-path}/{repo-name}/",
+  "homepage": "https://pages.github.ibm.com/glapadre/product-excellence-dashboard/",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d build",
